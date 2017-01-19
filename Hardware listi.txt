@@ -1,0 +1,16 @@
+Ég var að hugsa að það væri örugglega best að gefa Pi-inu rafmagn gegnum micro USB portið, því skjárinn tekur upp GPIO rafmagnsportin.
+Ef við erum með 10000mAh batterí, og Pi tekur upp 2A, mundi það endast í u.þ.b 3,5 klukkutíma.
+Ég held að það væri best að reyna að koma því fyrir að hafa hleðslutengið á batteríinu út svo það sé hægt að hlaða það auðveldlega.
+Við þurfum líka helst einvhern rofa til þess að geta slökkt og kveikt á Pi-inu.
+Ég veit ekki hvernig best væri að tengja hátalarana.
+
+
+Hérna er allt sem við þurfum:
+
+Raspberry Pi 3 model B og minniskort - http://mbr.is/raspberry-pi/19132-raspberry-pi-3-model-b-640522710867.html
+USB Ferðahleðsla, að minnsta kosti 2A output, helst 10000mAh+ - https://www.amazon.com/gp/product/B00SB6VLOO
+Raspberry Pi Touch Display - http://mbr.is/raspberry-pi/19146-raspberry-pi-7-snertiskjar.html
+Micro USB í USB snúra - http://mbr.is/heim/5736-usb-20-cable-usb-a-male-usb-micro-b-male-100-m-black-5412810187225.html
+Hátalarar x2 - http://mbr.is/hatalarar/174-dome-tweeter-8ohm.html
+USB stýripinni
+3d prentaður kassi utan um allt
