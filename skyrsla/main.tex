@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[a4pape]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[icelandic]{babel}
@@ -7,30 +7,37 @@
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage{lipsum} 
+\usepackage{minted}
+\usepackage{verbatim}
+\usepackage{hyperref}
+
 \pagestyle{fancy}
 \fancyhf{}
 \rhead{Vélmenni II}
-\lhead{\begin{picture}(0,0) \put(0,0){\includegraphics[width=3cm]{img/tskoli}} \end{picture}}
-\lfoot{Heiti vélmennis}
-\rfoot{\thepage}
+\lhead{\begin{picture}(0,0) \put(0,0){\includegraphics[width=3cm]{img/logotskoli_2}} \end{picture}}
+\cfoot{\thepage}
 \begin{document}
+
+\begin{titlepage}
 \title{Vélmenni II}
-\author{Guðni Natan Gunnarsson}
+\author{Guðni Natan Gunnarsson \\ Óðinn Eyjólfsson}
+\includegraphics[scale=.45]{img/logotskoli_2}
+\end{titlepage}
+
 \maketitle
-\begin{figure}[h]
-\centering
-\includegraphics[scale=.65]{img/tskoli}
-\includegraphics[scale=1]{img/rob2b3u_img}
-\end{figure}
-\newpage
 \tableofcontents
+
 \newpage
 \input{intro}
+\newpage
 \input{hardware}
+\newpage
 \input{timeplan}
 \newpage
 \input{sudo}
+\newpage
 \input{testing}
+\newpage
 \input{conclution}
 \newpage
 \input{references}
