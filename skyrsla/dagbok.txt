@@ -9,3 +9,8 @@ Gerði partalista
 
 24/1/2017 
 Gerðum lýsingu á verkefni og héldum áfram með hönnun og partaval
+
+31/1/2017
+Héldum áfram með skýrslu og partalista, fengum Raspberry Pi tölvu, endurröðuðum möppu
+
+Note: Við verðum núna að mestu leiti bara að bíða eftir pörtum. Ég sé ekki fram á að við getum í raun klárað intro-ið fyrr en það er allt komið í gang. Næst á dagskrá er tímalínan.
