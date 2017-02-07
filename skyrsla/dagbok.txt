@@ -14,3 +14,8 @@ Gerðum lýsingu á verkefni og héldum áfram með hönnun og partaval
 Héldum áfram með skýrslu og partalista, fengum Raspberry Pi tölvu, endurröðuðum möppu
 
 Note: Við verðum núna að mestu leiti bara að bíða eftir pörtum. Ég sé ekki fram á að við getum í raun klárað intro-ið fyrr en það er allt komið í gang. Næst á dagskrá er tímalínan.
+
+
+07/02/2017
+
+Skrifuðum RetroPie stýrikerfið á SD kort til ad byrja að setja upp rétta umhverfið fyrir tölvuna.
