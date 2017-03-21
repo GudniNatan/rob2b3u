@@ -1,0 +1,15 @@
+\select@language {icelandic}
+\contentsline {section}{\numberline {1}Inngangur}{2}{section.1}
+\contentsline {section}{\numberline {2}Um verkefni\IeC {\dh }}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}H\IeC {\"o}nnun}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Samsetning}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Hugb\IeC {\'u}na\IeC {\dh }ur}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Af hverju \IeC {\th }etta verkefni?}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Noth\IeC {\ae }fi}{3}{subsection.2.5}
+\contentsline {section}{\numberline {3}V\IeC {\'e}lb\IeC {\'u}na\IeC {\dh }ur}{4}{section.3}
+\contentsline {section}{\numberline {4}Verk\IeC {\'a}\IeC {\ae }tlun}{5}{section.4}
+\contentsline {section}{\numberline {5}Fl\IeC {\ae }\IeC {\dh }irit og sau\IeC {\dh }ak\IeC {\'o}\IeC {\dh }i}{6}{section.5}
+\contentsline {section}{\numberline {6}Pr\IeC {\'o}fanir}{7}{section.6}
+\contentsline {section}{\numberline {7}Lokaor\IeC {\dh }}{8}{section.7}
+\contentsline {section}{\numberline {8}Heimildaskr\IeC {\'a}}{9}{section.8}
+\contentsline {section}{\numberline {9}Dagb\IeC {\'o}k}{10}{section.9}

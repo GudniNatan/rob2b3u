@@ -1,15 +1,24 @@
 \section{Inngangur}
-Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino en allt hjá þeim er open-sourse og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino \cite{monk} Skoðið vel heimildaskrá og skránna mybib.bib. Hér er gott að lýsa högun kerfisins með orðum og mynd sem þið getið gert í draw.io sjá mynd:
+Skýrsla þessi fjallar um gerð á leikjatölvu sem notfærir sér Raspberry Pi 3 með RetroPie stýrikerfinu.
 
-\begin{figure}[h]
-\includegraphics[scale=.3]{img/system}
-\end{figure}
 \section{Um verkefnið}
 Við ætlum að gera ferða-leikjatölvu. Hún verður byggð á raspberry pi 3 model B og mun keyra RetroPie stýrikerfið. Hún mun geta spilað alls konar leiki frá Mario til Doom. Tölvan notar snertiskjá sem verður vonandi hægt verður að nota í leikjum (sem auka takka eða eitthvað), það verður rafhlaða, og hátalarar fyrir hljóð. Hægt verður að hlaða hana með micro-USB snúru. Til þess að gera þetta allt saman þurfum við að leysa ýmis vandamál eins og hvaða búnað það væri best að nota, samsetningu og uppsetningu á hugbúnaði.
 
 \subsection{Hönnun}
 
 Áður en við getum í raun hafið verkefnið verðum við fyrst að hanna vélina. Það er því miður mjög erfitt að breyta til eftir að búið er að festa kaup á pörtum, svo við verðum að vanda okkur við valið.
+
+Tölvan á eftir að líkjast spjaldtölvu í útliti. Tölvan á eftir að vera með innbyggða stýripinna, takka og örvatakka (directional pad), Í miðjunni verður 7 tommu snertiskjár, og það verða tveir hátalarar sem eiga eftir að beina að leikmanninum (beint fram) eða út til hliðanna, að láta hátalarana beina beint fram væri betri kosturinn, en það kemur í ljós hvort það sé nóg pláss.
+
+Skelin utan um tölvuna á eftir að vera 3D prentuð, og verður hún nógu stór til að rúma allan vélbúnað og batterí innan henni. Ýmsir takkar eiga eftir að vera utan á tölvunni eins og takki til að slökkva og kveikja á henni, og potentiometer til að stýra hljóðstyrk
+
+Sem dæmi um útlit sjá Nintendo Switch.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.5]{img/switch}
+	\caption{Nintendo Switch}
+\end{figure}
 
 \subsection{Samsetning}
 
@@ -25,6 +34,6 @@ Vegna þess að það er skemmtilegt!
 
 Við völdum þetta verkefni af því að við höfum gaman af tölvuleikjum og okkur langaði til að gera leikjatölvu. Okkur fannst þetta spennandi hugmynd. Það að við höfum möguleikann á að gera þetta verkefni yfir höfuð er æðislegt.
 
-\textbf{Nothæfi}
+\subsection{Nothæfi}
 
 Þessa leikjatölvu væri hægt að nota í, eins og nafnið gefur til, ýmsa tölvuleiki. Það væri hægt að fjöldaframleiða og selja svona tölvur. Á markaðinum núna eru til ýmsar leikjatölvur sem spila gamla leiki, en þær spila yfirleitt bara leiki frá einu fyrirtæki og svo þarftu alltaf að tengja það við sjónvarpið. Með okkar tölvu gætir þú spilað nánast hvaða gamla leik sem er (svo lengi sem þú átt ROM-ið) og tekið þá með þér. Þetta er betra en síminn þinn því hann kemur ekki með neinum tökkum sem hægt er að nota til að stjórna leiknum, bara snertiskjá.
