@@ -27,3 +27,8 @@ Skrifuðum RetroPie stýrikerfið á SD kort til ad byrja að
 Komst i ljós að partarnir myndu ekki koma í tæka tíð 
     þannig að verkefnið er búið að breytast 
     í hálfgert proof-of-concept verkefni. 
+
+30/03/2017
+Fleiri viðbætur við skýrslu, lét inn gant rit, intro, lokaorð,
+    Þurfum væntanlega að breyta þessu aðeins, en annars
+    er ekkert mikið eftir.
