@@ -32,3 +32,6 @@ Komst i ljós að partarnir myndu ekki koma í tæka tíð
 Fleiri viðbætur við skýrslu, lét inn gant rit, intro, lokaorð,
     Þurfum væntanlega að breyta þessu aðeins, en annars
     er ekkert mikið eftir.
+
+6/04/2017
+Klára skýrslu.
